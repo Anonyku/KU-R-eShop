@@ -4,3 +4,5 @@ Una tienda que te facilita la instalacion de juegos y homebrews
 
 # Download
 ### Requirement
+
+# Setup instructions
